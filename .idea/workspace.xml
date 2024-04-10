@@ -157,7 +157,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "JUnit.HammingTest (1).executor": "Debug",
+    "JUnit.HammingTest (1).executor": "Run",
     "JUnit.HammingTest.testCompleteDistanceInSingleNucleotideStrand.executor": "Run",
     "JUnit.HammingTest.testCompleteDistanceInSmallStrand.executor": "Run",
     "JUnit.HammingTest.testNoDistanceBetweenLongIdenticalStrands.executor": "Run",
